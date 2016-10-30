@@ -1,0 +1,88 @@
+1:Perc|Conga Thump
+2:Perc|Conga Slap
+3:Perc|Conga Open Trio
+4:Perc|Cajon Thump
+5:Perc|Cajon Slap
+6:Perc|Cajon Open Duo
+9:Perc|Clave
+20:Kicks|Dancefloor
+21:Kicks|Thor
+23:Kicks|Rock
+25:Kicks|Concrete
+26:Kicks|Pillow
+28:Kicks|Jazz
+32:Snares|Thor '37
+33:Snares|Thor -X
+34:Snares|Thor - Bz
+35:Snares|Reggae Brass
+36:Snares|Reggae -X
+37:Snares|Reggae - Bz
+38:Snares|Modern Wood
+40:Snares|Modern - Bz
+44:Snares|Blues
+45:Snares|Blues -X
+46:Snares|Blues - Bz
+47:Snares|Latin (snares off)
+48:Snares|Latin -X
+49:Snares|Latin - Bz
+50:Snares|Soul Deep Wood
+51:Snares|Soul -X
+52:Snares|Soul - Bz
+53:Snares|Brush
+54:Snares|Brush Swrl
+56:Snares|Brush Sft R
+57:Toms|Vintage 1 Brush
+58:Toms|Vintage 2 Brush
+59:Toms|Modern 1 Open
+60:Toms|Modern 2 Open
+61:Toms|Modern 3 Open
+62:Toms|Modern 4 Open
+63:Toms|Latin 1
+64:Toms|Reggae 2
+65:Toms|Latin 3
+66:Toms|Vintage 1 Open
+67:Toms|Vintage 2 Open
+68:Toms|Vintage 3 Open
+69:Toms|Vintage 4 Open
+71:Toms|Rock 1 Muff.
+72:Toms|Rock 2 Muff.
+73:Toms|Rock 3 Muff.
+74:Toms|Rock 4 Muff.
+75:Toms|Rototom
+76:Toms|Modern 2 Muff.
+77:Toms|Modern 3 Muff.
+78:Toms|Modern 4 Muff.
+79:Hats|Old Jazz K foot
+80:Hats|Old Jazz K tight
+81:Hats|Old Jazz K 1/4
+82:Hats|Old Jazz K 1/2
+83:Hats|Old Jazz K 3/4 wash
+84:Hats|Old Jazz K open ride wash
+85:Hats|Bright Z foot
+86:Hats|Bright Z tight
+87:Hats|Bright Z 1/4
+88:Hats|Bright Z 1/2
+89:Hats|Bright Z 3/4 wash
+90:Hats|Bright Z open ride wash
+91:Rides|Bright ride 20 tip
+92:Rides|Bright ride 20 bell
+93:Rides|Dry 24 Tip
+94:Rides|Dry 24 Bell
+96:Cymbals|Sweet 11 (spl)
+97:Cymbals|Sweet 12 (spl)
+98:Cymbals|Sweet 16
+99:Cymbals|Sweet 18
+100:Cymbals|Bright China 17
+101:Cymbals|Bright crash 16
+102:Cymbals|Bright crash 18
+103:Rides|Bright crash/ride 20
+104:Perc|Cowbell Hi
+105:Perc|Cowbell Lo
+110:Rides|Dark Brush 20
+111:Cymbals|Dark Brush 18
+112:Cymbals|Dark Brush 16
+114:Cymbals|Big China 22
+115:Rides|Big Jazz ride 22
+116:Rides|Big Jazz bell 22
+117:Rides|Big Sizzle ride 20
+118:Rides|Big Sizzle bell 20
