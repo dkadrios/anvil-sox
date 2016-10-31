@@ -23,7 +23,10 @@
     require('gulp-using');
   } catch (E) {}
 
-  require('gulp-help')(gulp, {hideDepsMessage: true});
+  require('gulp-help')(gulp, {
+    hideDepsMessage: true,
+    hideEmpty: true
+  });
   require('./lib/report').use(gulp);
   require('./lib/validate').use(gulp);
   require('./lib/wavs').use(gulp);
