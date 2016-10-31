@@ -1,9 +1,9 @@
 node_modules
-sox/.idea/
+.idea/
 .DS_Store
 
 build.sh
 
-sox/wav-in
-sox/wav-out
-sox/wav-tmp
+wav-in
+wav-out
+wav-tmp
