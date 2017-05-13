@@ -1,3 +1,16 @@
 {
-  "extends": "nebiru"
+    "extends": "nebiru",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "env": {
+        "mocha": true
+    },
+    "rules": {
+        "angular/angularelement": "off",
+        "angular/interval-service": "off",
+        "angular/json-functions": "off",
+        "angular/log": "off",
+        "angular/window-service": "off"
+    }
 }

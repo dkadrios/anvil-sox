@@ -1,35 +1,32 @@
-(function () {
-  'use strict';
+const gulp = require('gulp');
 
-  var gulp = require('gulp');
+/**
+ * @name fs
+ * @property {Function} existsSync
+ * @property {Function} readFileSync
+ * @property {Function} statSync
+ */
 
-  /**
-   * @name fs
-   * @property {Function} existsSync
-   * @property {Function} readFileSync
-   * @property {Function} statSync
-   */
+/**
+ * @name ts
+ * @property {Function} fromNow
+ */
 
-  /**
-   * @name ts
-   * @property {Function} fromNow
-   */
+/**
+ * @name argv
+ */
 
-  /**
-   * @name argv
-   */
-
-  try {
+try {
     require('gulp-using');
-  } catch (E) {}
+} catch (E) {
+}
 
-  require('gulp-help')(gulp, {
+require('gulp-help')(gulp, {
     hideDepsMessage: true,
     hideEmpty: true
-  });
-  require('./lib/report').use(gulp);
-  require('./lib/validate').use(gulp);
-  require('./lib/wavs').use(gulp);
+});
+require('./lib/report').use(gulp);
+require('./lib/validate').use(gulp);
+require('./lib/wavs').use(gulp);
 
-  gulp.task('default', false, ['help']);
-})();
+gulp.task('default', false, ['help']);

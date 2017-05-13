@@ -1,40 +1,39 @@
 {
-  "name": "ANVIL-sox",
-  "version": "1.0.0",
-  "description": "Munge TRS files for the Zendrum Box",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Darin Kadrioski <darin@nebiru.com>",
-  "license": "UNLICENSED",
-  "engines": {
-    "node": ">4.2.3 <5.0.0"
-  },
-  "dependencies": {
-    "bytes": "2.4.0",
-    "del": "2.2.2",
-    "eslint-config-defaults": "9.0.0",
-    "eslint-config-nebiru": "latest",
-    "eslint-plugin-angular": "1.4.1",
-    "eslint-plugin-jasmine": "1.8.1",
-    "eslint-plugin-json": "1.2.0",
-    "eslint-plugin-lodash": "2.1.7",
-    "eslint-plugin-protractor": "1.28.0",
-    "glob": "7.1.1",
-    "gulp": "3.9.1",
-    "gulp-clean": "0.3.2",
-    "gulp-eslint": "3.0.1",
-    "gulp-help": "1.6.1",
-    "gulp-if": "2.0.1",
-    "gulp-shell": "0.5.2",
-    "gulp-tap": "0.1.3",
-    "gulp-util": "3.0.7",
-    "lodash": "4.16.5",
-    "stream-consume": "0.1.0",
-    "yargs": "6.3.0"
-  },
-  "devDependencies": {
-    "gulp-using": "latest"
-  }
+    "name": "ANVIL-sox",
+    "version": "1.0.0",
+    "description": "Munge TRS files for the Zendrum Box",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://darink@bitbucket.org/nebiru/anvil-sox.git"
+    },
+    "author": "Darin Kadrioski <darin@nebiru.com>",
+    "license": "UNLICENSED",
+    "engines": {
+        "node": ">=7.0.0"
+    },
+    "dependencies": {
+        "bytes": "2.5.0",
+        "del": "2.2.2",
+        "eslint-config-nebiru": "latest",
+        "glob": "7.1.1",
+        "gulp": "3.9.1",
+        "gulp-clean": "0.3.2",
+        "gulp-eslint": "3.0.1",
+        "gulp-help": "1.6.1",
+        "gulp-if": "2.0.2",
+        "gulp-shell": "0.6.3",
+        "gulp-tap": "0.1.3",
+        "gulp-util": "3.0.8",
+        "lodash": "4.17.4",
+        "progress": "2.0.0",
+        "stream-consume": "0.1.0",
+        "yargs": "8.0.1"
+    },
+    "devDependencies": {
+        "gulp-using": "latest"
+    }
 }
