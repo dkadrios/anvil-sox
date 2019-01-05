@@ -1,6 +1,6 @@
 # ANVIL Audio Utilities
 
-Provides library for munging input WAV files into output expected by the [ANVIL firmware](http://zendrumstudio.com/anvil/).
+Provides library for munging input WAV files into output expected by the [ANVIL firmware](http://zendrumstudio.com/anvil/) which powers the [Zendrum Stompblock](https://zendrum.com/index.php?route=product/category&path=79).
 
 ## Setup
 
@@ -14,7 +14,7 @@ git clone git@bitbucket.org:nebiru/anvil-sox.git
 
 ### Step 2
 
-Install [NodeJS 7.10.0](https://nodejs.org/dist/v7.10.0/node-v7.10.0.pkg)
+Install [NodeJS 7.10.0](https://nodejs.org/dist/v7.10.0/node-v7.10.0.pkg) or newer.
 
 ### Step 3
 
